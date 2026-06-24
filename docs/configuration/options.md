@@ -7,7 +7,7 @@ In this guide, we are going to discuss the available options to customize Espans
 
 ## Customizing the Toggle Key
 
-If you often need to **quickly enable and disable Espanso** during regular use, you might want to customize the _Toggle Key_. When double pressed, the Toggle Key disables Espanso, preventing any expansion. Double-pressing Alt again will re-enable it. 
+If you often need to **quickly enable and disable Espanso** during regular use, you might want to customize the _Toggle Key_. When double pressed, the Toggle Key disables Espanso, preventing any expansion. Double-pressing the Toggle Key again will re-enable it.
 
 :::info Changes in version 2.1.2
 
